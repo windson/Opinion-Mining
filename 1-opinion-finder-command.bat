@@ -1,0 +1,1 @@
+java -Xmx1g -classpath lib\weka.jar;lib\stanford-postagger.jar;opinionfinder.jar opin.main.RunOpinionFinder database/docs/data/CanonG3_untagged.txt -r preprocessor
