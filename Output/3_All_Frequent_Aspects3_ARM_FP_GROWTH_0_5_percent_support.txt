@@ -1,0 +1,237 @@
+'megapixel camera': 262144
+'canon': 150633
+'picture': 148982
+'way': 143112
+'canon camera': 141636
+'camera': 140123
+'g3': 139119
+'canon g3': 138888
+'g3 camera': 138868
+'battery': 138675
+'canon g3 camera': 138304
+'battery life': 137744
+'quality': 137177
+'life': 136925
+'g2': 136824
+'megapixel': 135846
+'picture quality': 131616
+'coolpix': 66062
+'fact': 66050
+'performance': 66049
+'lens distortion': 22528
+'lens': 13353
+'lens viewfinder': 13198
+'viewfinder': 13142
+'lcd': 13106
+'lcd viewfinder': 12792
+'corner lens': 12380
+'distortion': 11786
+'screen': 11529
+'lcd screen': 11528
+'lens barrel': 10648
+'barrel': 8516
+'corner': 6400
+'lens view': 2048
+'feature': 1694
+'camera lens': 1220
+'camera cap': 1120
+'cap': 1120
+'lens cap': 1120
+'view': 1083
+'issue': 1025
+'type': 766
+'olympus': 559
+'bit': 548
+'review': 317
+'metz': 288
+'flash': 282
+'exposure': 278
+'metz flash': 202
+'mode': 199
+'metz module': 168
+'image': 165
+'g3 image': 156
+'exposure setting': 128
+'mbyte cf': 128
+'exposure mode': 128
+'photo': 126
+'control': 114
+'nikon': 111
+'time': 108
+'software': 104
+'auto setting': 102
+'cf': 100
+'thing': 100
+'option': 99
+'range': 98
+'setting': 97
+'youve': 90
+'auto': 89
+'slr': 87
+'effect': 83
+'lens adapter': 80
+'lens filter': 80
+'shooting lens': 80
+'color': 76
+'menu': 66
+'priority': 65
+'system': 60
+'filter': 60
+'lens coating': 60
+'flash unit': 58
+'sca': 52
+'powershot': 44
+'shutter priority': 42
+'shutter': 40
+'shoe flash': 38
+'adjustment': 33
+'hour': 32
+'unit': 31
+'difference': 30
+'camera friend': 28
+'camera review': 28
+'flash photo': 28
+'moment': 25
+'aperture priority': 24
+'film camera': 24
+'film': 22
+'powershot g3': 22
+'canon flash': 22
+'review site': 20
+'site': 20
+'manual': 18
+'aperture': 18
+'friend': 16
+'image quality': 16
+'quality image': 16
+'price': 12
+'canon powershot': 12
+'card': 11
+'zoom': 11
+'shoe': 11
+'shot': 10
+'resolution': 10
+'photography': 10
+'consumer': 8
+'flash card': 8
+'design': 8
+'design flaw': 8
+'flaw': 8
+'work': 8
+'ct-4': 7
+'s330': 6
+'day': 5
+'finder': 5
+'auto mode': 4
+'camera experience': 4
+'experience': 4
+'everything': 4
+'line': 4
+'line camera': 4
+'week': 4
+'zoom camera': 4
+'compactflash': 4
+'view finder': 4
+'limitation': 4
+'lag': 4
+'lag time': 4
+'lens zoom': 4
+'nikon slr': 4
+'quality photo': 4
+'quality picture': 4
+'zoom picture': 4
+'anything': 3
+'lot': 3
+'point': 3
+'research': 3
+'speed': 3
+'use': 3
+'ability': 2
+'adobe': 2
+'power': 2
+'box': 2
+'button': 2
+'choice': 2
+'detail': 2
+'fiance': 2
+'flexibility': 2
+'market': 2
+'month': 2
+'noise': 2
+'people': 2
+'pic': 2
+'purchase': 2
+'result': 2
+'strap': 2
+'wife': 2
+'year': 2
+'mb': 2
+'ease': 2
+'head': 2
+'wall': 2
+'focus': 2
+'light': 2
+'problem': 2
+'shoot': 2
+'something': 2
+'4mp': 1
+'access': 1
+'amazon': 1
+'anyone': 1
+'balance': 1
+'body': 1
+'brand': 1
+'capture': 1
+'casing': 1
+'competition': 1
+'computer': 1
+'cost': 1
+'delay': 1
+'depth': 1
+'dial': 1
+'digicam': 1
+'display': 1
+'drawback': 1
+'drive': 1
+'eo': 1
+'file': 1
+'format': 1
+'fun': 1
+'function': 1
+'functionality': 1
+'hand': 1
+'home': 1
+'hundred': 1
+'level': 1
+'lever': 1
+'love': 1
+'metering': 1
+'microdrive': 1
+'money': 1
+'mp': 1
+'nothing': 1
+'one': 1
+'order': 1
+'output': 1
+'panel': 1
+'photograph': 1
+'photographer': 1
+'photoshop': 1
+'plastic': 1
+'printer': 1
+'processing': 1
+'product': 1
+'situation': 1
+'sony': 1
+'sort': 1
+'storage': 1
+'store': 1
+'subject': 1
+'technology': 1
+'term': 1
+'ton': 1
+'top': 1
+'toy': 1
+'trip': 1
+'tripod': 1
+'user': 1

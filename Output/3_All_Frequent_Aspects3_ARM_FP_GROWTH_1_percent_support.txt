@@ -1,0 +1,97 @@
+'megapixel camera': 34442
+'canon g3 camera': 33352
+'canon camera': 19056
+'g3 camera': 18368
+'canon': 18267
+'camera': 18262
+'g3': 18262
+'canon g3': 18256
+'battery': 18217
+'picture': 18001
+'quality': 17936
+'megapixel': 17923
+'g2': 17668
+'battery life': 17008
+'life': 16798
+'picture quality': 16388
+'way': 16385
+'feature': 195
+'g3 image': 40
+'cf': 35
+'image': 28
+'lens': 23
+'mode': 20
+'software': 19
+'thing': 18
+'flash': 16
+'lcd': 16
+'lens viewfinder': 16
+'review': 12
+'metz': 12
+'viewfinder': 12
+'metz flash': 11
+'camera lens': 8
+'lens cap': 8
+'film camera': 8
+'time': 7
+'film': 6
+'moment': 6
+'auto': 4
+'auto mode': 4
+'camera review': 4
+'nikon': 4
+'shoe flash': 4
+'lcd screen': 4
+'screen': 4
+'point': 3
+'powershot': 3
+'shot': 3
+'setting': 3
+'flaw': 2
+'lot': 2
+'photo': 2
+'price': 2
+'exposure': 2
+'view': 2
+'zoom': 2
+'shoot': 2
+'ability': 1
+'adjustment': 1
+'amazon': 1
+'anyone': 1
+'bit': 1
+'button': 1
+'card': 1
+'choice': 1
+'color': 1
+'control': 1
+'day': 1
+'difference': 1
+'digicam': 1
+'everything': 1
+'focus': 1
+'hand': 1
+'light': 1
+'manual': 1
+'month': 1
+'olympus': 1
+'option': 1
+'photography': 1
+'photoshop': 1
+'pic': 1
+'priority': 1
+'problem': 1
+'product': 1
+'range': 1
+'research': 1
+'resolution': 1
+'result': 1
+'s330': 1
+'shutter': 1
+'slr': 1
+'something': 1
+'speed': 1
+'use': 1
+'week': 1
+'work': 1
+'year': 1

@@ -1,0 +1,10 @@
+'not', 55
+'digital', 55
+'great', 41
+'very', 38
+'about', 36
+'out', 35
+'photo', 34
+'so', 30
+'more', 26
+'just', 24

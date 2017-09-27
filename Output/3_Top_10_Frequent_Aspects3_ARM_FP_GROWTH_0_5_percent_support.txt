@@ -1,0 +1,10 @@
+'megapixel camera', 262144
+'canon', 150633
+'picture', 148982
+'way', 143112
+'canon camera', 141636
+'camera', 140123
+'g3', 139119
+'canon g3', 138888
+'g3 camera', 138868
+'battery', 138675

@@ -1,0 +1,10 @@
+'megapixel camera', 34442
+'canon g3 camera', 33352
+'canon camera', 19056
+'g3 camera', 18368
+'canon', 18267
+'camera', 18262
+'g3', 18262
+'canon g3', 18256
+'battery', 18217
+'picture', 18001
